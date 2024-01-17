@@ -1,0 +1,24 @@
+{
+  "phonebook": [
+    {
+      "id": "3025",
+      "name": "green",
+      "number": "ffff"
+    },
+    {
+      "id": "9621",
+      "name": "tsega",
+      "number": "0913115120"
+    },
+    {
+      "id": "405a",
+      "name": "taye",
+      "number": "77777"
+    },
+    {
+      "id": "6880",
+      "name": "runi",
+      "number": "cccc"
+    }
+  ]
+}
